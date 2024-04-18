@@ -6,7 +6,7 @@ Bienvenido! Si solo ves una columna de texto sin nada a los laterales, recomiend
 Para más información sobre la wiki, [[Léeme!|clickea aquí]]
 
 ### Lista de directorios
-#### [[Directorio de personajes|Todos los personajes]]
+#### [[Personajes|Todos los personajes]]
 Conocidos y por conocer, la lista de personajes engloba personajes de jugadores como Juvukk el Paladín como también personajes no jugadores como Alister Crane o David
 #### [[Sesiones|Todas las sesiones]]
 Una lista con todas las sesiones en orden de fecha y su respectivo título
