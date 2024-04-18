@@ -1,5 +1,5 @@
 ---
-title: "[[Juvukk]]"
+title: Juvukk
 draft: false
 tags:
   - example-tag
