@@ -1,6 +1,6 @@
 ---
-title: Sin título
-draft: true
+title: Ergot
+draft: false
 tags:
   - personaje_jugador
 clase y raza: tiefling bardo

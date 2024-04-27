@@ -8,7 +8,7 @@ Para más información sobre la wiki, [[Léeme!|clickea aquí]]
 ### Lista de directorios
 #### [[Personajes|Todos los personajes]]
 Conocidos y por conocer, la lista de personajes engloba personajes de jugadores como Juvukk el Paladín como también personajes no jugadores como Alister Crane o David
-#### [[Sesiones|Todas las sesiones]]
+#### [[Directorio de sesiones|Todas las sesiones]]
 Una lista con todas las sesiones en orden de fecha y su respectivo título
 #### [[Lore|El mundo]]
 Una lista con objetos, historia, eventos anteriores, etc, todo lo que sea parte de la historia y no sea un personaje directamente entra acá.

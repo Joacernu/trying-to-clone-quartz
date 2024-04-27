@@ -4,6 +4,10 @@ draft: false
 tags:
   - personaje_jugador
 clase y raza: humano rogue
+aliases:
+  - Amanda
+  - Sofi
+  - Personaje de Sofi
 ---
 ## Imagen 
 ![[Imagen de WhatsApp 2024-02-04 a las 19.03.16_940ead64.jpg|400]]

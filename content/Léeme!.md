@@ -12,12 +12,8 @@ Cosas que puedo agregar:
 
 ### Directorio
 La página inicial debería funcionar igual, pero en caso de que no, aquí hay un directorio más personal:
-- Personajes
+- [[Personajes]]
 	- Lista de NPCs (personajes que no son jugadores en la mesa)
 	- Lista de Jugadores (información pública de los personajes de los jugadores)
-- Lugares
-- Objetos
+- Mundo
 - Sesiones
-- Historia (lore)
-	- Eventos vividos
-	- Eventos anteriores a nosotros
