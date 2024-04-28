@@ -10,9 +10,9 @@ tags:
 #### [[Hekob (Marce)|Hekob, el enano monje]]
 #### [[Juvukk (Joa)|Juvukk, el orco paladín]]
 #### [[Nymphea (Ale)|Nymphea, la semi-elfa druida]]
-#### [[Personaje de Angy|Cyan, la tiefling druida]]
-#### [[Personaje de Juanshi|Avasarala, la genasi bárbara]]
-#### [[Personaje de Pieri|Ergot, le tiefling bardo]]
+#### [[Cyan (Angy)|Cyan, la tiefling druida]]
+#### [[Avasarala (Juanshi)|Avasarala, la genasi bárbara]]
+#### [[Ergot (Pieri)|Ergot, le tiefling bardo]]
 #### [[Rex (Gonza)|Rex, el tiefling cazabrujas]]
 #### [[Shykell (Mati)|Shykell, el drow hechicero]]
 
